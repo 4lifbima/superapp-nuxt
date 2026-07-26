@@ -183,7 +183,7 @@ Pastikan perangkat Anda telah terpasang:
 
 1. **Clone repositori proyek ini**:
    ```bash
-   git clone https://github.com/username/Photobot.git
+   git clone https://github.com/4lifbima/superapp-nuxt.git
    cd Photobot
    ```
 
